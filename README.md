@@ -17,7 +17,7 @@ A comprehensive overview of the effect of the pandemic on the various aspects of
  <img src="investment/2_loan.PNG", height=600, width=600/>
    <img src="investment/4_investment_vs_prediction.PNG", height=600, width=600/>
    <img src="investment/5_forecast_2021.png", height=600, width=600/>
-  <img src="investment/6_forecast_10years.PNG", height=600, width=600/>
+  <img src="investment/6_forecast_10 years.PNG", height=600, width=600/>
 
  
  </p>
