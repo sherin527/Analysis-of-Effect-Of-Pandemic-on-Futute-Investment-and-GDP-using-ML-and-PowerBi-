@@ -9,7 +9,9 @@ A comprehensive overview of the effect of the pandemic on the various aspects of
    <img src="gdp_growth/6_forecast_2021.png", height=600, width=600/>
  <img src="gdp_growth/forecast_10years.PNG", height=600, width=600/>
   </p>
-
+<p>
+ <h2>IFC_INVESTMENT_ANALYSIS</h2>
+ </p>
 
 
 
